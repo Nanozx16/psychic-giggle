@@ -1,0 +1,16 @@
+API-1628 - Creates a mechanism to build a contract map for releases. (#1424)
+* chore: copy images to new caip-19 folders
+
+* chore: updated docs
+
+* chore: created scripts for building the contract map in caip-19 fmt
+
+* chore: removes double ..
+
+* chore: add tests for caip map
+
+* chore: push
+
+* chore: get rid of yarn lock
+
+* chore: delete erc721 icons
